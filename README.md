@@ -1,5 +1,6 @@
 <h1 align="center">
   <img alt="" title="to.do" src=".github/demostration_aplication.png" width="320px" />
+  <br>
   SNAKE PINK GAME!
 </h1>
 
