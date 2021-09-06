@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="" title="to.do" src=".github/demostration_aplication.png" width="320px" />
+  <img alt="" title="snake pink game" src=".github/demostration_aplication.png" width="320px" />
   <br>
   SNAKE PINK GAME!
 </h1>
@@ -28,8 +28,9 @@ This project was developed with the following technologies:
 
 <br>
 
-## ⚙ Settings
-- Open with Live Server
+## ⚙ Test
+<button href="snake-pink-game.netlify.app"> Jogar! </button>
+
 <br>
 
 ---
