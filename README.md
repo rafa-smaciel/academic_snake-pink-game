@@ -29,7 +29,9 @@ This project was developed with the following technologies:
 <br>
 
 ## ⚙ Test
-<button href="snake-pink-game.netlify.app"> Jogar! </button>
+<a href="https://snake-pink-game.netlify.app">
+    <img alt="" title="snake pink game" src=".github/jogar.svg" width="50px" /> 
+  </a>
 
 <br>
 
