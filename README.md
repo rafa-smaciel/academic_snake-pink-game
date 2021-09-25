@@ -28,6 +28,12 @@ This project was developed with the following technologies:
 
 <br>
 
+## ⚙ Sources
+- https://www.flaticon.com/br
+- https://www.netlify.com/
+
+<br>
+
 ## ⚙ Test
 <a href="https://snake-pink-game.netlify.app" target="_blank">
     <img alt="" title="snake pink game" src=".github/jogar.svg" width="50px" /> 
